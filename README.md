@@ -46,15 +46,28 @@ In the images bellow, you'll see examples of logic function and call function.
 https://github.com/willianportilho/get_next_line.git
 ```
 
-- Include these headers on you code:  
+- Include this header on you code:  
+
+_One file descriptor:_
 ``` c
 #include "./get_next_line.h"
+```
+
+_or Multiples file descriptors:_
+``` c
 #include "./get_next_line_bonus.h"
 ```
 _*If necessary, change the location. Remember that the include location depends on where your another files are._  
 
 
-- Finally, compile the program whith this line:  
+- Finally, compile the program whith this line: 
+ 
+_One file descriptor:_
 ```
-gcc your_program_here.c get_next_line.c get_next_line_utils.c get_next_line_bonus.c get_next_line_utils_bonus.c
+gcc your_program_here.c get_next_line.c get_next_line_utils.c
+```
+
+_or Multiples file descriptors:_
+```
+gcc your_program_here.c get_next_line_bonus.c get_next_line_utils_bonus.c
 ```
