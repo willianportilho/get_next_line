@@ -1,4 +1,4 @@
-<h1 align="center"> Get next line </h1>
+<h1 align="center"> get_next_line </h1>
 
 <p align="center"> A 42 project written in C language</p>
 
