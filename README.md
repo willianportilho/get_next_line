@@ -19,14 +19,14 @@
 - [Usage](#%EF%B8%8F-usage)
 
 ### Explanation
-The function works with fd's and stdin. Static variable and the read() function are used.
+The function works with fd's and stdin. Static variable and the read() function are used. <br> 
 In the images bellow, you'll see examples of logic function and call function.
 
 ---
 
 ## Example 1 (logic function)
 ![logic function image](images/example_1.jpg)
-*_Consult the [code](get_next_line.c) for better undesrtanding_
+*_Consult the [code](get_next_line.c) for more details_
 
 ---
 
@@ -36,7 +36,7 @@ In the images bellow, you'll see examples of logic function and call function.
 ![call function image_2](images/example_2_2.jpg)
 ![call function image_3](images/example_2_3.jpg)
 ![call function image_4](images/example_2_4.jpg)
-*_Consult the [code](get_next_line.c) for better undesrtanding_
+*_Consult the [code](get_next_line.c) for more details_
 
 ## 🛠️ Usage
 <p> For use this function, follow these steps:</p>
