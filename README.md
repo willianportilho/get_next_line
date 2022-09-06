@@ -9,14 +9,17 @@
 
 ---
 
-## Introduction
-
-<p> This project had the purpose of create a function that returns a line with '\n' character in the end if there any. Works with one or multiples file descriptors and stdin. </p>
-
+- [Introduction](#introduction)
 - [Explanation](#explanation)
 - [Example 1](#example-1-logic-function)
 - [Example 2](#example-2-call-function)
 - [Usage](#%EF%B8%8F-usage)
+
+## Introduction
+
+<p> This project had the purpose of create a function that returns a line with '\n' character in the end if there any. Works with one or multiples file descriptors and stdin. </p>
+
+---
 
 ### Explanation
 The function works with fd's and stdin. Static variable and the read() function are used. <br> 
